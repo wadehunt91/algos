@@ -26,7 +26,6 @@ const insertAt = (arr, idx, value) => {
     }
     console.log(arr);
 }
-
 // insertAt([100,200,5], 2, 311);
 // insertAt([9,33,7], 1, 42);
 
