@@ -21,6 +21,7 @@ const printAndReturn = (num1, num2) => {
     return num2;
 }
 
+
 printAndReturn(1,2);
 
 //problem 3 : First plus length //

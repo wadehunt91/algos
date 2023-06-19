@@ -24,6 +24,7 @@
 //     beCheerful();
 // }
 
+
 // Multiples of 3 : But not all
 const multiplesOfThree = (min,max) => {
     for (let i = min ; i <= max ; i++){
