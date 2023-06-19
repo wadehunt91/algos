@@ -10,6 +10,8 @@ const pushToFront = (arr,newValue) => {
     console.log(arr);
 }
 
+
+
 // pushToFront([5,7,2,3], 8)
 
 // function two (Insert at) //
